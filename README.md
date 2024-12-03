@@ -3,8 +3,8 @@
 ## About Me
 
 - 👩‍💻 I'm **Albina Halabaku**.
-- 🎓 Currently Specializing in Software Engineering.
-- 💻 I am a passionate Student studing Computer Science and Engineering
+- 🎓 I am a passionate Student studying Computer Science and Engineering,Specializing in Software Engineering.
+- 💻 Currently learning FrameWorks,.Net,Express.js etc
 
 ## Connect with Me
 - 📍 **Location**: Kosovo
