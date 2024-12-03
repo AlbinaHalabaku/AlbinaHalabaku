@@ -15,6 +15,6 @@
   - ⚡ Find joy in solving challenging problems and always look for the most efficient solutions.
 
   ## Languages and Tools :
-- 🔧  Java,JavaScript, TypeScript,C#,.Net Core,Php,React,TypeScript,Node.js
-      VS Code, Visual Studio, GitHub, PostgreSQL, Prisma,Sql Server,MySql,Unity
+- 🔧  Java,JavaScript,TypeScript,C#,.Net FrameWork,Php,React.js,TypeScript,Node.js,Express.js,
+      VS Code, Visual Studio, GitHub, PostgreSQL, Prisma,SQL Server,MySQL,MongoDB, Unity
 
