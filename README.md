@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**AlbinaHalabaku/AlbinaHalabaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👩‍💻 I'm **Albina Halabaku**.
+- 🎓 Currently Specializing in Software Engineering.
+- 💻 I am a passionate Student studing Computer Science and Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Connect with Me
+- 📍 **Location**: Kosovo
+- 📧 **Email**: albinahalabaku8@gmail.com
+
+  ## Fun Facts
+  - 📖 Always learning new programming concepts.
+  - ⚡ Find joy in solving challenging problems and always look for the most efficient solutions.
+
+  ## Languages and Tools :
+- 🔧  Java,JavaScript, TypeScript,C#,.Net Core,Php,React,TypeScript,Node.js
+      VS Code, Visual Studio, GitHub, PostgreSQL, Prisma,Sql Server,MySql,Unity
+
