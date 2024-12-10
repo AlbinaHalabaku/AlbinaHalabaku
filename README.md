@@ -15,6 +15,6 @@
   - ⚡ Find joy in solving challenging problems and always look for the most efficient solutions.
 
 ## Languages and Tools :
-- 🔧  Java,JavaScript,TypeScript,C#,.Net FrameWork,Php,React.js,TypeScript,Node.js,Express.js,
+- 🔧  Java,JavaScript,TypeScript,C#,.Net FrameWork,Php,React.js,AngularJs,Node.js,Express.js,
       VS Code, Visual Studio, GitHub, PostgreSQL, Prisma,SQL Server,MySQL,MongoDB, Unity
 
